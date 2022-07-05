@@ -48,9 +48,9 @@ Try to optimize speed and trajectories as much as possible.
 
 ### Generations overview
 
-| NB. Generation | Preview (speed x8)                                                                                                           |
-|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| 1→15           | <img src="https://user-images.githubusercontent.com/74459226/177371768-70bf03b9-9581-47e9-b63f-efdb55eb0d5d.gif" width=200/> |
-| 40→43          | <img src="https://user-images.githubusercontent.com/74459226/177371691-1bce17d5-21aa-43ea-a7b2-8984a8cd2fea.gif" width=200/> |
-| 47→48          | <img src="https://user-images.githubusercontent.com/74459226/177371604-1d761bc5-ea9b-4ef5-a8c4-c4e509b8e221.gif" width=200/> |
-| 65             | <img src="https://user-images.githubusercontent.com/74459226/177371465-dcb5a048-01ea-493e-8b8b-5ffc6d6ac494.gif" width=200/> |
+| NB. Generation | Preview (speed x8)                                                                                                          |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1→15           | <img src="https://user-images.githubusercontent.com/74459226/177371768-70bf03b9-9581-47e9-b63f-efdb55eb0d5d.gif" width=50/> |
+| 40→43          | <img src="https://user-images.githubusercontent.com/74459226/177371691-1bce17d5-21aa-43ea-a7b2-8984a8cd2fea.gif" width=50/> |
+| 47→48          | <img src="https://user-images.githubusercontent.com/74459226/177371604-1d761bc5-ea9b-4ef5-a8c4-c4e509b8e221.gif" width=50/> |
+| 65             | <img src="https://user-images.githubusercontent.com/74459226/177371465-dcb5a048-01ea-493e-8b8b-5ffc6d6ac494.gif" width=50/> |
